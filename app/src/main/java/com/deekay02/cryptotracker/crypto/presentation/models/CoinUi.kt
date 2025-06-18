@@ -3,7 +3,7 @@ package com.deekay02.cryptotracker.crypto.presentation.models
 import android.icu.text.NumberFormat
 import androidx.annotation.DrawableRes
 import com.deekay02.cryptotracker.crypto.domain.Coin
-import com.deekay02.cryptotracker.util.getDrawableIdForCoin
+import com.deekay02.cryptotracker.core.presentation.util.getDrawableIdForCoin
 import java.util.Locale
 
 data class CoinUi(

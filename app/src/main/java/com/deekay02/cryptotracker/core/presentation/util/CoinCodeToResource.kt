@@ -1,4 +1,4 @@
-package com.deekay02.cryptotracker.util
+package com.deekay02.cryptotracker.core.presentation.util
 
 import com.deekay02.cryptotracker.R
 

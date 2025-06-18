@@ -1,4 +1,4 @@
-package com.deekay02.cryptotracker.util
+package com.deekay02.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 
